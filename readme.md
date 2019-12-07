@@ -3,17 +3,17 @@
  <h1 align="center">Faceconnent</h1>
 
 
-## About VemTrocar
+## About Faceconnect
 <p>
-  VemTrocar is an afghanistan online social media and social networking service created to connect people all around the world, devolaped in two different languages.
+  Faceconnect is an afghanistan online social media and social networking service created to connect people all around the world, devolaped in two different languages.
 </p>
 <ol>
   <li>English</li>
   <li>Persian (فارسی)</li>
 </ol>
 
-VemTrocar may be accessed by a large range of devices with Internet connectivity, such as desktop, laptop and tablet computers, and smartphones. After registering to use the site, users can create a customized profile indicating their name, occupation, schools attended and so on. Users can add other users as "followers", exchange messages, post status updates, share photos, and receive notifications of activity.
-VemTrocar is devolaped in Laravel 5.5v (2018) [Laravel documentation](https://laravel.com/docs)  and mySql database.
+Faceconnect may be accessed by a large range of devices with Internet connectivity, such as desktop, laptop and tablet computers, and smartphones. After registering to use the site, users can create a customized profile indicating their name, occupation, schools attended and so on. Users can add other users as "followers", exchange messages, post status updates, share photos, and receive notifications of activity.
+Faceconnect is devolaped in Laravel 5.5v (2018) [Laravel documentation](https://laravel.com/docs)  and mySql database.
 
 <h3>Features</h3>
 <ul>
@@ -33,7 +33,7 @@ VemTrocar is devolaped in Laravel 5.5v (2018) [Laravel documentation](https://la
 
 
 ## Installation
-
+<b>step 1: </b><p> Open your terminal and Clone the project. Run: <code>git clone https://github.com/zainudinnory/faceconnect.git</code></p>
 <b>step 2: </b> <p>Create your .env file and specify your database</p>
 <b>step 3: </b> <p>Run: <code>composer install</code></p>
 <b>step 4: </b> <p>Create a key. Run:<code>php artisan key:generate</code></p>
